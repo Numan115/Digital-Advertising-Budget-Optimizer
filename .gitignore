@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Large scaled datasets (can be generated via src/scale_dataset.py)
+data/scaled/
+*.csv.gz
+
+# Environments & OS files
+.venv/
+env/
+.DS_Store
+Thumbs.db
+
+data/raw/
+
