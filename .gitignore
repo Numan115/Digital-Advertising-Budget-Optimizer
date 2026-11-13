@@ -11,6 +11,9 @@ data/scaled/
 env/
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
 
 data/raw/
 
+=======
+>>>>>>> 01d827844ae34ae9e6ee3a79c122b3d015b47ef8
